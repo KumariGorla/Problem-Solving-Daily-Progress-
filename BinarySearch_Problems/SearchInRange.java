@@ -1,3 +1,4 @@
+package BinarySearch_Problems;
 public class SearchInRange {
     public static void main(String[] args) {
         int arr[] = {2,-2,5,6,7,8,9,90};

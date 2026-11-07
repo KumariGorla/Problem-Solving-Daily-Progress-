@@ -1,3 +1,4 @@
+package BinarySearch_Problems;
 class InfinitySearch {
     public static void main(String[] args) {
         int arr[] = {2,3,4,5,6,7,10,11,12,13,15,23,24,30};

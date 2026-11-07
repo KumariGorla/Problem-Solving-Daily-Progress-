@@ -1,3 +1,4 @@
+package BinarySearch_Problems;
 class PeakEle {
    public static void main(String[] args) {
         int arr[] = {0,10,5,2};

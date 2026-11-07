@@ -1,3 +1,4 @@
+package BinarySearch_Problems;
 import java.util.Arrays;
 
 public class SearchinStr {

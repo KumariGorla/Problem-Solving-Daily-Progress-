@@ -1,11 +1,12 @@
+package BinarySearch_Problems;
 class BinarySearch {
 
     public static void main(String[] args) {
         int arr[] = {-18,2,3,4,15,16,18,22,45};
-        int ans = BinarySearch(arr,16);
+        int ans = BinarySearch1(arr,16);
         System.out.println(ans);
     }
-    static int BinarySearch(int arr[],int target){
+    static int BinarySearch1(int arr[],int target){
         int start = 0;
         int end = arr.length-1;
         while(start <= end){
